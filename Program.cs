@@ -18,5 +18,7 @@ namespace ProjetIA2022
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+       
     }
+    // Je suis une énorme salope
 }
