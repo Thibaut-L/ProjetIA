@@ -17,10 +17,10 @@ namespace ProjetIA2022
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
-            int a = 2;
+
         }
     }
 
-    //coucou tiph
+    //je m'appelle ajate
     
 }
