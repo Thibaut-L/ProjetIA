@@ -20,5 +20,5 @@ namespace ProjetIA2022
         }
        
     }
-    // Je suis une énorme salope
+    // Je suis une énorme bonne personne
 }
